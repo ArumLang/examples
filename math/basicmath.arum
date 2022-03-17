@@ -1,8 +1,8 @@
 use: "std"
 
 main=()=>{
-	println(+(1 4))
-	println(-(4 2))
-	println(*(7 4))
-	println(/(4 7))
+	println(add(1 4))
+	println(sub(4 2))
+	println(mul(7 4))
+	println(div(4 7))
 }
